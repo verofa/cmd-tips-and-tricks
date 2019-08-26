@@ -98,7 +98,8 @@ def user(pl, segment_info, hide_user=None, hide_domain=False):
         }]
 
 
-
+# Restart the powerline daemon (need to be done everytime you make changes to poweline's config files and sometimes it required to restart the terminal as well)
+$ powerline-daemon —-replace
 ```
 
 
