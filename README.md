@@ -8,7 +8,7 @@
 
   Change the username powerline prompt value for the one that you like:
 
-  ```python
+  ```bash
   # Access to the directory that contain the py file with the username value
   cd $HOME/Library/Python/2.7/lib/python/site-packages/powerline/segments/common/
   # Check that env.py file is there
