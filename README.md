@@ -1,6 +1,6 @@
 
 
-# Command Lines - Tips and Tricks **
+# Command Lines - Tips and Tricks 
 
 - Powerline customization:
 
